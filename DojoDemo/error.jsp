@@ -6,7 +6,7 @@
 <body>
     <h3>Exception:</h3>
     <s:property value="exception"/>
-
+<<%--  修改测试--%>
     <h3>Stack trace:</h3>
     <pre>
         <s:property value="exceptionStack"/>
